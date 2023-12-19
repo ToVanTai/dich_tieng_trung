@@ -1,0 +1,1 @@
+npx jsontt test.json --translator bing --from en --to zh-Hans
